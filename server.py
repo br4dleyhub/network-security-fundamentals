@@ -1,6 +1,12 @@
+from datetime import datetime
+from collections import defaultdict
+import time
 import socket
 import logging
-from datetime import datetime
+
+connection_tracker = defaultdict(list)
+TIME_WINDOW = 10  # seconds
+MAX_CONNECTIONS = 5
 
 # Configure logging
 logging.basicConfig(
@@ -22,9 +28,24 @@ def start_server():
     while True:
         client_socket, client_address = server_socket.accept()
         ip, port = client_address
+        current_time = time.time()
+
+        connection_tracker[ip].append(current_time)
+
+        # Remove old timestamps
+        connection_tracker[ip] = [
+            t for t in connection_tracker[ip]
+            if current_time - t <= TIME_WINDOW
+        ]
 
         logging.info(f"Connection from {ip}:{port}")
-        print(f"[+] Connection from {ip}:{port}")
+
+        if len(connection_tracker[ip]) > MAX_CONNECTIONS:
+            logging.warning(
+                f"Suspicious activity detected from {ip} "
+                f"({len(connection_tracker[ip])} connections in {TIME_WINDOW}s)"
+            )
+            print(f"[!] Suspicious activity from {ip}")
 
         client_socket.close()
 

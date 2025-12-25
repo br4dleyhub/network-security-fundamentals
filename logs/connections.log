@@ -1,1 +1,12 @@
 2025-12-25 19:10:51,777 - Connection from 127.0.0.1:55197
+2025-12-25 19:36:51,491 - Connection from 127.0.0.1:64613
+2025-12-25 19:36:52,688 - Connection from 127.0.0.1:64614
+2025-12-25 19:36:54,619 - Connection from 127.0.0.1:64615
+2025-12-25 19:36:55,657 - Connection from 127.0.0.1:64616
+2025-12-25 19:36:56,448 - Connection from 127.0.0.1:64617
+2025-12-25 19:36:57,173 - Connection from 127.0.0.1:64618
+2025-12-25 19:36:57,173 - Suspicious activity detected from 127.0.0.1 (6 connections in 10s)
+2025-12-25 19:36:57,918 - Connection from 127.0.0.1:64619
+2025-12-25 19:36:57,918 - Suspicious activity detected from 127.0.0.1 (7 connections in 10s)
+2025-12-25 19:36:58,514 - Connection from 127.0.0.1:64620
+2025-12-25 19:36:58,514 - Suspicious activity detected from 127.0.0.1 (8 connections in 10s)
