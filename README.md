@@ -38,6 +38,22 @@ No real-world systems or networks are targeted.
 
 ---
 
+## Screenshots
+
+Server Running
+![Server Running](/network-security-fundamentals/docs/screenshots/nsf_server_running.png)
+
+Log Warnings
+![Log Warnings](/network-security-fundamentals/docs/screenshots/nsf_log_warnings.png)
+
+Client Connections
+![Client Connections](/network-security-fundamentals/docs/screenshots/nsf_client_connections.png)
+
+Attack Simulation Output
+![Attack Simulation Output](/network-security-fundamentals/docs/screenshots/nsf_attack_simulation_output.png)
+
+---
+
 ## Conclusion
 This project demonstrates foundational networking and cybersecurity concepts through ethical monitoring and controlled attack simulations.
 
