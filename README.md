@@ -33,5 +33,12 @@ No real-world systems or networks are targeted.
 
 ## Program Alignment
 - Python Programming Bootcamp
-- Introduction to Cyber Security
+- Introduction to Cyber-Security
 - Data Communication and Net-Centric Computing
+
+---
+
+## Conclusion
+This project demonstrates foundational networking and cybersecurity concepts through ethical monitoring and controlled attack simulations.
+
+It emphasizes understanding communication patterns, detecting anomalies, and applying responsible security practices.
