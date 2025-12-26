@@ -1,12 +1,18 @@
-2025-12-25 19:10:51,777 - Connection from 127.0.0.1:55197
-2025-12-25 19:36:51,491 - Connection from 127.0.0.1:64613
-2025-12-25 19:36:52,688 - Connection from 127.0.0.1:64614
-2025-12-25 19:36:54,619 - Connection from 127.0.0.1:64615
-2025-12-25 19:36:55,657 - Connection from 127.0.0.1:64616
-2025-12-25 19:36:56,448 - Connection from 127.0.0.1:64617
-2025-12-25 19:36:57,173 - Connection from 127.0.0.1:64618
-2025-12-25 19:36:57,173 - Suspicious activity detected from 127.0.0.1 (6 connections in 10s)
-2025-12-25 19:36:57,918 - Connection from 127.0.0.1:64619
-2025-12-25 19:36:57,918 - Suspicious activity detected from 127.0.0.1 (7 connections in 10s)
-2025-12-25 19:36:58,514 - Connection from 127.0.0.1:64620
-2025-12-25 19:36:58,514 - Suspicious activity detected from 127.0.0.1 (8 connections in 10s)
+2025-12-26 10:54:55,178 - Connection from 127.0.0.1:65425
+2025-12-26 10:54:57,728 - Connection from 127.0.0.1:65427
+2025-12-26 10:55:01,042 - Connection from 127.0.0.1:65428
+2025-12-26 10:56:01,095 - Connection from 127.0.0.1:54591
+2025-12-26 10:56:01,596 - Connection from 127.0.0.1:54592
+2025-12-26 10:56:02,098 - Connection from 127.0.0.1:54593
+2025-12-26 10:56:02,599 - Connection from 127.0.0.1:54594
+2025-12-26 10:56:03,100 - Connection from 127.0.0.1:54595
+2025-12-26 10:56:03,601 - Connection from 127.0.0.1:54596
+2025-12-26 10:56:03,601 - Suspicious activity detected from 127.0.0.1 (6 connections in 10s)
+2025-12-26 10:56:04,102 - Connection from 127.0.0.1:54597
+2025-12-26 10:56:04,102 - Suspicious activity detected from 127.0.0.1 (7 connections in 10s)
+2025-12-26 10:56:04,603 - Connection from 127.0.0.1:54598
+2025-12-26 10:56:04,603 - Suspicious activity detected from 127.0.0.1 (8 connections in 10s)
+2025-12-26 10:56:05,104 - Connection from 127.0.0.1:54599
+2025-12-26 10:56:05,104 - Suspicious activity detected from 127.0.0.1 (9 connections in 10s)
+2025-12-26 10:56:05,605 - Connection from 127.0.0.1:54600
+2025-12-26 10:56:05,606 - Suspicious activity detected from 127.0.0.1 (10 connections in 10s)
